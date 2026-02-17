@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "GitHub Live link\n\n\n\nRecommender\n\n\n\nBuilt content-based recommender using TF-IDF and cosine similarity\nDeveloped preprocessing and evaluation pipelines\nImproved recommendation accuracy through feature engineering\n\n\n\n\n\nGithub\n\nAgent can read file\nAgent can write code/md-file for us\nAgent can execute the bash command\n\n\n\n\n\nGitHub\n\nBuilt REST APIs for product, cart, order, and user management\nIntegrated MySQL with JPA/Hibernate\nImplemented JWT authentication & centralized exception handling\n\n\n\n\n\nGitHub\n\n\n\nLogin Page\n\n\n\n\n\nInterface\n\n\n\nBuilt real-time scoring platform using WebSockets, React, Node.js, MongoDB\nImplemented JWT authentication and role-based access control\nDeployed on Vercel & Render with low-latency updates\n\n\n\n\n\nGitHub\n\nDeveloped concurrent HTTP/1.1 server using Python thread pooling\nImplemented persistent connections and back-pressure mechanisms\nAdded secure file serving, logging, and streaming"
+  },
+  {
+    "objectID": "projects.html#movie-recommender-system",
+    "href": "projects.html#movie-recommender-system",
+    "title": "Projects",
+    "section": "",
+    "text": "GitHub Live link\n\n\n\nRecommender\n\n\n\nBuilt content-based recommender using TF-IDF and cosine similarity\nDeveloped preprocessing and evaluation pipelines\nImproved recommendation accuracy through feature engineering"
+  },
+  {
+    "objectID": "projects.html#building-my-own-claude-code",
+    "href": "projects.html#building-my-own-claude-code",
+    "title": "Projects",
+    "section": "",
+    "text": "Github\n\nAgent can read file\nAgent can write code/md-file for us\nAgent can execute the bash command"
+  },
+  {
+    "objectID": "projects.html#e-commerce-backend-spring-boot",
+    "href": "projects.html#e-commerce-backend-spring-boot",
+    "title": "Projects",
+    "section": "",
+    "text": "GitHub\n\nBuilt REST APIs for product, cart, order, and user management\nIntegrated MySQL with JPA/Hibernate\nImplemented JWT authentication & centralized exception handling"
+  },
+  {
+    "objectID": "projects.html#scory-real-time-sports-scoring-platform",
+    "href": "projects.html#scory-real-time-sports-scoring-platform",
+    "title": "Projects",
+    "section": "",
+    "text": "GitHub\n\n\n\nLogin Page\n\n\n\n\n\nInterface\n\n\n\nBuilt real-time scoring platform using WebSockets, React, Node.js, MongoDB\nImplemented JWT authentication and role-based access control\nDeployed on Vercel & Render with low-latency updates"
+  },
+  {
+    "objectID": "projects.html#multi-threaded-http-server",
+    "href": "projects.html#multi-threaded-http-server",
+    "title": "Projects",
+    "section": "",
+    "text": "GitHub\n\nDeveloped concurrent HTTP/1.1 server using Python thread pooling\nImplemented persistent connections and back-pressure mechanisms\nAdded secure file serving, logging, and streaming"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "👋 Hi, I’m Aashu Kumar",
+    "section": "",
+    "text": "Aashu Kumar\n\n\n\nI’ve been curious about how the computer since my childhood so till then I’ve been tweaking with my computer system. I’ve been exploring lots of different fields of CS.\nI got really amazed what things we can achieve with our simple laptop from creating webpages, predictive models and to running billion dollar complex algorithms.\nWith hope so making some couples of millions I learnt so many technologies like full-stack development, machine learning and operating system.\nI’m driven by my curiosity and making myself capable so that I can deliver my best wherever I’m going and working.\n\n\n\n\nBackend Development — Node.js, Spring Boot, REST APIs\nFull-Stack Development — React, Next.js, Express.js\nData Structures & Algorithms — Java\nDevOps & Cloud — CI/CD, deployment workflows\nOpen Source — Active contributor\nMachine Learning — Making models\n\n\n\n\n\nLanguages: Java, Python, JavaScript\nFrameworks: React, Spring Boot, Express.js\nData & ML: Pandas, NumPy, Scikit-learn\nDatabases: MySQL, MongoDB\nTools: Git, Linux, VS Code, Postman\n\n\n\n\n\nUsing Python to Access Web Data\nIntroduction to Node.js (v3)\nReact Foundations for Next.js\nPython Data Structures\nUsing Databases with Python\nPython for Everybody — University of Michigan\n\n\n\n\n\n\nGitHub\nLinkedIn\nX / Twitter\nInstagram\nashu9472.as@gmail.com"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "👋 Hi, I’m Aashu Kumar",
+    "section": "",
+    "text": "Backend Development — Node.js, Spring Boot, REST APIs\nFull-Stack Development — React, Next.js, Express.js\nData Structures & Algorithms — Java\nDevOps & Cloud — CI/CD, deployment workflows\nOpen Source — Active contributor\nMachine Learning — Making models"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "👋 Hi, I’m Aashu Kumar",
+    "section": "",
+    "text": "Languages: Java, Python, JavaScript\nFrameworks: React, Spring Boot, Express.js\nData & ML: Pandas, NumPy, Scikit-learn\nDatabases: MySQL, MongoDB\nTools: Git, Linux, VS Code, Postman"
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "👋 Hi, I’m Aashu Kumar",
+    "section": "",
+    "text": "Using Python to Access Web Data\nIntroduction to Node.js (v3)\nReact Foundations for Next.js\nPython Data Structures\nUsing Databases with Python\nPython for Everybody — University of Michigan"
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "👋 Hi, I’m Aashu Kumar",
+    "section": "",
+    "text": "GitHub\nLinkedIn\nX / Twitter\nInstagram\nashu9472.as@gmail.com"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Greater Bengaluru Area ashu9472.as@gmail.com | LinkedIn | GitHub\n\n\n\n\nBirla Institute of Technology and Science, Pilani B.Sc. in Computer Science | Aug 2024 – Aug 2027 | CGPA: 8.49 / 10\n\n\n\n\nAI Trainer — Outlier Nov 2024 – Jan 2025\n\nEvaluated and improved AI-generated code and technical responses\nProvided structured feedback to enhance reasoning quality\nContributed to prompt optimization and model refinement\n\n\n\n\n\nScory — Real-Time Sports Scoring Platform | GitHub\n\nBuilt real-time scoring platform using WebSockets, React, Node.js, MongoDB\nImplemented JWT authentication and role-based access control\n\nMulti-Threaded HTTP Server | GitHub\n\nDeveloped concurrent HTTP/1.1 server using Python thread pooling\nImplemented persistent connections and back-pressure mechanisms\n\nE-Commerce Backend (Spring Boot) | GitHub\n\nBuilt REST APIs for product, cart, order, and user management\nIntegrated MySQL with JPA/Hibernate and JWT authentication\n\nMovie Recommender System | GitHub\n\nBuilt content-based recommender using TF-IDF and cosine similarity\nDeveloped preprocessing and evaluation pipelines\n\n\n\n\n\nLanguages: Python, Java, JavaScript Frameworks: React, Spring Boot, Express.js Data & ML: Pandas, NumPy, Scikit-learn Databases: MySQL, MongoDB Tools: Git, GitHub, Linux, VS Code, Postman\n\n\n\n\n\nSolved 400+ DSA problems on LeetCode\nParticipated in Buildverse Hackathon\nOpen-source contributor during Hacktoberfest\n\n\n\n\n\nEnglish (Fluent) | Hindi (Native) | Maithili (Native)"
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Resume",
+    "section": "",
+    "text": "Greater Bengaluru Area ashu9472.as@gmail.com | LinkedIn | GitHub"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Birla Institute of Technology and Science, Pilani B.Sc. in Computer Science | Aug 2024 – Aug 2027 | CGPA: 8.49 / 10"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "AI Trainer — Outlier Nov 2024 – Jan 2025\n\nEvaluated and improved AI-generated code and technical responses\nProvided structured feedback to enhance reasoning quality\nContributed to prompt optimization and model refinement"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume",
+    "section": "",
+    "text": "Scory — Real-Time Sports Scoring Platform | GitHub\n\nBuilt real-time scoring platform using WebSockets, React, Node.js, MongoDB\nImplemented JWT authentication and role-based access control\n\nMulti-Threaded HTTP Server | GitHub\n\nDeveloped concurrent HTTP/1.1 server using Python thread pooling\nImplemented persistent connections and back-pressure mechanisms\n\nE-Commerce Backend (Spring Boot) | GitHub\n\nBuilt REST APIs for product, cart, order, and user management\nIntegrated MySQL with JPA/Hibernate and JWT authentication\n\nMovie Recommender System | GitHub\n\nBuilt content-based recommender using TF-IDF and cosine similarity\nDeveloped preprocessing and evaluation pipelines"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Languages: Python, Java, JavaScript Frameworks: React, Spring Boot, Express.js Data & ML: Pandas, NumPy, Scikit-learn Databases: MySQL, MongoDB Tools: Git, GitHub, Linux, VS Code, Postman"
+  },
+  {
+    "objectID": "resume.html#achievements",
+    "href": "resume.html#achievements",
+    "title": "Resume",
+    "section": "",
+    "text": "Solved 400+ DSA problems on LeetCode\nParticipated in Buildverse Hackathon\nOpen-source contributor during Hacktoberfest"
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Resume",
+    "section": "",
+    "text": "English (Fluent) | Hindi (Native) | Maithili (Native)"
+  }
+]

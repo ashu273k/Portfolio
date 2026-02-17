@@ -1,0 +1,74 @@
+# Resume
+
+---
+
+## Contact
+
+**Greater Bengaluru Area**
+[ashu9472.as@gmail.com](mailto:ashu9472.as@gmail.com) | [LinkedIn](https://linkedin.com/in/aashu273k) | [GitHub](https://github.com/ashu273k)
+
+---
+
+## Education
+
+**Birla Institute of Technology and Science, Pilani**
+B.Sc. in Computer Science | Aug 2024 – Aug 2027 | CGPA: 8.49 / 10
+
+---
+
+## Experience
+
+**AI Trainer — Outlier**
+*Nov 2024 – Jan 2025*
+
+- Evaluated and improved AI-generated code and technical responses
+- Provided structured feedback to enhance reasoning quality
+- Contributed to prompt optimization and model refinement
+
+---
+
+## Projects
+
+**Scory — Real-Time Sports Scoring Platform** | [GitHub](https://github.com/ashu273k/Scory)
+
+- Built real-time scoring platform using WebSockets, React, Node.js, MongoDB
+- Implemented JWT authentication and role-based access control
+
+**Multi-Threaded HTTP Server** | [GitHub](https://github.com/ashu273k/Multi-threaded-HTTP-server)
+
+- Developed concurrent HTTP/1.1 server using Python thread pooling
+- Implemented persistent connections and back-pressure mechanisms
+
+**E-Commerce Backend (Spring Boot)** | [GitHub](https://github.com/ashu273k/E-Commerece)
+
+- Built REST APIs for product, cart, order, and user management
+- Integrated MySQL with JPA/Hibernate and JWT authentication
+
+**Movie Recommender System** | [GitHub](https://github.com/ashu273k/Movie-Recommender)
+
+- Built content-based recommender using TF-IDF and cosine similarity
+- Developed preprocessing and evaluation pipelines
+
+---
+
+## Skills
+
+**Languages:** Python, Java, JavaScript
+**Frameworks:** React, Spring Boot, Express.js
+**Data & ML:** Pandas, NumPy, Scikit-learn
+**Databases:** MySQL, MongoDB
+**Tools:** Git, GitHub, Linux, VS Code, Postman
+
+---
+
+## Achievements
+
+- Solved 400+ DSA problems on LeetCode
+- Participated in Buildverse Hackathon
+- Open-source contributor during Hacktoberfest
+
+---
+
+## Languages
+
+English (Fluent) | Hindi (Native) | Maithili (Native)

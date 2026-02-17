@@ -1,0 +1,59 @@
+# 👋 Hi, I'm Aashu Kumar
+
+![Aashu Kumar](assets/Aashu%20Kumar.jpg){width=150}
+
+---
+
+I've been curious about how the computer since my childhood so till then I've been tweaking with my computer system. I've been exploring lots of different fields of CS.
+
+I got really amazed what things we can achieve with our simple laptop from *creating webpages*, *predictive models* and to running billion dollar *complex algorithms*.
+
+With hope so making some couples of millions I learnt so many technologies like **full-stack development**, **machine learning** and **operating system**.
+
+I'm driven by my curiosity and making myself capable so that I can deliver my best wherever I'm going and working.
+
+---
+
+## 🚀 What I Do
+
+- **Backend Development** — Node.js, Spring Boot, REST APIs
+- **Full-Stack Development** — React, Next.js, Express.js
+- **Data Structures & Algorithms** — Java
+- **DevOps & Cloud** — CI/CD, deployment workflows
+- **Open Source** — Active contributor
+- **Machine Learning** — Making models 
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Java, Python, JavaScript
+
+**Frameworks:** React, Spring Boot, Express.js
+
+**Data & ML:** Pandas, NumPy, Scikit-learn
+
+**Databases:** MySQL, MongoDB
+
+**Tools:** Git, Linux, VS Code, Postman
+
+---
+
+## 📜 Certifications
+
+- Using Python to Access Web Data
+- Introduction to Node.js (v3)
+- React Foundations for Next.js
+- Python Data Structures
+- Using Databases with Python
+- Python for Everybody — University of Michigan
+
+---
+
+## 🔗 Connect
+
+- [GitHub](https://github.com/ashu273k)
+- [LinkedIn](https://linkedin.com/in/aashu273k)
+- [X / Twitter](https://x.com/ashu273k)
+- [Instagram](https://instagram.com/ashu_273k)
+- [ashu9472.as@gmail.com](mailto:ashu9472.as@gmail.com)

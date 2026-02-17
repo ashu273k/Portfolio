@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Aashu Kumar"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+    right:
+      - icon: file-earmark-pdf
+        href: assets/Resume.pdf
+        text: Resume PDF
+        target: _blank
+      - icon: github
+        href: https://github.com/ashu273k
+        target: _blank
+      - icon: linkedin
+        href: https://linkedin.com/in/aashu273k
+        target: _blank
+
+format:
+  html:
+    theme: cosmo
+    toc: true
