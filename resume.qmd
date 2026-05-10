@@ -4,71 +4,84 @@
 
 ## Contact
 
-**Greater Bengaluru Area**
-[ashu9472.as@gmail.com](mailto:ashu9472.as@gmail.com) | [LinkedIn](https://linkedin.com/in/aashu273k) | [GitHub](https://github.com/ashu273k)
+**Bengaluru, Karnataka, India**  
+[ashu9472.as@gmail.com](mailto:ashu9472.as@gmail.com) | [+91-8709078244](tel:+918709078244) | [GitHub](https://github.com/ashu273k) | [LinkedIn](https://linkedin.com/in/aashu273k) | [Portfolio](https://ashu273k.me) | [LeetCode](https://leetcode.com/u/aashu273k/)
 
 ---
 
 ## Education
 
-**Birla Institute of Technology and Science, Pilani**
-B.Sc. in Computer Science | Aug 2024 – Aug 2027 | CGPA: 8.49 / 10
+**Birla Institute of Technology and Science, Pilani**  
+2024 - 2027  
+Bachelor of Science in Computer Science  
+CGPA: 8.55/10
+
+---
+
+## Technical Skills
+
+**Languages:** Java, Python, JavaScript, SQL, HTML/CSS  
+**Frameworks & Libraries:** React.js, Express.js, Spring Boot, Tailwind CSS, LangChain  
+**Databases & Cloud:** MongoDB, MySQL, ChromaDB, Vercel, Netlify  
+**Developer Tools:** Git, GitHub, Docker, Linux, Postman, VS Code  
+**Core Concepts:** Data Structures & Algorithms, OOPs, DBMS, Operating Systems, Computer Networks, REST APIs, JWT Authentication, Multithreading, RAG Systems
 
 ---
 
 ## Experience
 
-**AI Trainer — Outlier**
-*Nov 2024 – Jan 2025*
+**AI Trainer - Outlier**  
+*Nov 2024 - Jan 2025*  
+*Remote*
 
-- Evaluated and improved AI-generated code and technical responses
-- Provided structured feedback to enhance reasoning quality
-- Contributed to prompt optimization and model refinement
+- Evaluated and improved AI-generated coding and mathematics responses for large language models
+- Provided structured feedback on reasoning quality, response accuracy, and prompt behavior
+- Contributed to prompt refinement and response optimization workflows for AI-assisted systems
 
 ---
 
 ## Projects
 
-**Scory — Real-Time Sports Scoring Platform** | [GitHub](https://github.com/ashu273k/Scory)
+**Multi-Threaded HTTP Server** | Python, Socket Programming, Multithreading
 
-- Built real-time scoring platform using WebSockets, React, Node.js, MongoDB
-- Implemented JWT authentication and role-based access control
+- Developed a concurrent HTTP/1.1 server using low-level socket programming and thread pooling in Python
+- Implemented persistent connections, request parsing, logging, and secure static file serving
+- Designed concurrent request handling architecture to efficiently support multiple client connections
+- Strengthened understanding of networking fundamentals, concurrency, and backend systems design
 
-**Multi-Threaded HTTP Server** | [GitHub](https://github.com/ashu273k/Multi-threaded-HTTP-server)
+**NotebookLLM - RAG Platform** | Python, LangChain, Gemini, ChromaDB
 
-- Developed concurrent HTTP/1.1 server using Python thread pooling
-- Implemented persistent connections and back-pressure mechanisms
+- Engineered a Retrieval-Augmented Generation (RAG) platform for contextual document interaction and semantic search
+- Built document ingestion and embedding pipelines using LangChain and ChromaDB for efficient retrieval
+- Implemented conversational querying workflows enabling context-aware responses across uploaded documents
+- Integrated vector search and LLM-based response generation to improve information accessibility
 
-**E-Commerce Backend (Spring Boot)** | [GitHub](https://github.com/ashu273k/E-Commerece)
+**Persona-Based AI Chatbot** | React.js, Node.js, OpenAI SDK, Gemini
 
-- Built REST APIs for product, cart, order, and user management
-- Integrated MySQL with JPA/Hibernate and JWT authentication
+- Built an AI-powered instructor persona system supporting contextual and personality-driven conversations
+- Implemented conversational memory handling for maintaining coherent multi-turn interactions
+- Designed responsive frontend interfaces using React.js and integrated backend APIs using Node.js
+- Focused on improving personalized learning experiences through adaptive AI-generated responses
 
-**Movie Recommender System** | [GitHub](https://github.com/ashu273k/Movie-Recommender)
+**Scory - Real-Time Sports Scoring Platform** | React.js, Node.js, MongoDB, WebSockets
 
-- Built content-based recommender using TF-IDF and cosine similarity
-- Developed preprocessing and evaluation pipelines
-
----
-
-## Skills
-
-**Languages:** Python, Java, JavaScript
-**Frameworks:** React, Spring Boot, Express.js
-**Data & ML:** Pandas, NumPy, Scikit-learn
-**Databases:** MySQL, MongoDB
-**Tools:** Git, GitHub, Linux, VS Code, Postman
+- Developed a real-time sports scoring platform with low-latency updates using WebSocket communication
+- Implemented JWT authentication, role-based authorization, and secure session management
+- Built scalable backend APIs and deployed the application using Vercel and Render
+- Enhanced synchronization between multiple connected users and live scoring dashboards
 
 ---
 
 ## Achievements
 
-- Solved 400+ DSA problems on LeetCode
-- Participated in Buildverse Hackathon
-- Open-source contributor during Hacktoberfest
+- Achieved a maximum LeetCode contest rating of 1573
+- Solved 400+ Data Structures and Algorithms problems across coding platforms
+- Selected among the top 800 teams out of 31,000+ registrations in the OpenEnv Hackathon finale
+- Open-source contributor during Hacktoberfest and active participant in technical hackathons
 
 ---
 
-## Languages
+## Leadership & Community
 
-English (Fluent) | Hindi (Native) | Maithili (Native)
+**Campus Partner - Perplexity**  
+*Oct 2025 - Nov 2025*

@@ -1,8 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
+  site-url: https://ashu273k.me
   title: "Aashu Kumar"
   navbar:
     left:

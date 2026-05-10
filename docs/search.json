@@ -81,35 +81,35 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Greater Bengaluru Area ashu9472.as@gmail.com | LinkedIn | GitHub\n\n\n\n\nBirla Institute of Technology and Science, Pilani B.Sc. in Computer Science | Aug 2024 – Aug 2027 | CGPA: 8.49 / 10\n\n\n\n\nAI Trainer — Outlier Nov 2024 – Jan 2025\n\nEvaluated and improved AI-generated code and technical responses\nProvided structured feedback to enhance reasoning quality\nContributed to prompt optimization and model refinement\n\n\n\n\n\nScory — Real-Time Sports Scoring Platform | GitHub\n\nBuilt real-time scoring platform using WebSockets, React, Node.js, MongoDB\nImplemented JWT authentication and role-based access control\n\nMulti-Threaded HTTP Server | GitHub\n\nDeveloped concurrent HTTP/1.1 server using Python thread pooling\nImplemented persistent connections and back-pressure mechanisms\n\nE-Commerce Backend (Spring Boot) | GitHub\n\nBuilt REST APIs for product, cart, order, and user management\nIntegrated MySQL with JPA/Hibernate and JWT authentication\n\nMovie Recommender System | GitHub\n\nBuilt content-based recommender using TF-IDF and cosine similarity\nDeveloped preprocessing and evaluation pipelines\n\n\n\n\n\nLanguages: Python, Java, JavaScript Frameworks: React, Spring Boot, Express.js Data & ML: Pandas, NumPy, Scikit-learn Databases: MySQL, MongoDB Tools: Git, GitHub, Linux, VS Code, Postman\n\n\n\n\n\nSolved 400+ DSA problems on LeetCode\nParticipated in Buildverse Hackathon\nOpen-source contributor during Hacktoberfest\n\n\n\n\n\nEnglish (Fluent) | Hindi (Native) | Maithili (Native)"
+    "text": "Bengaluru, Karnataka, India\nashu9472.as@gmail.com | +91-8709078244 | GitHub | LinkedIn | Portfolio | ashu273k.me | [LeetCode]\n\n\n\n\nBirla Institute of Technology and Science, Pilani\n2024 - 2027\nBachelor of Science in Computer Science\nCGPA: 8.55/10\n\n\n\n\nLanguages: Java, Python, JavaScript, SQL, HTML/CSS\nFrameworks & Libraries: React.js, Express.js, Spring Boot, Tailwind CSS, LangChain\nDatabases & Cloud: MongoDB, MySQL, ChromaDB, Vercel, Netlify\nDeveloper Tools: Git, GitHub, Docker, Linux, Postman, VS Code\nCore Concepts: Data Structures & Algorithms, OOPs, DBMS, Operating Systems, Computer Networks, REST APIs, JWT Authentication, Multithreading, RAG Systems\n\n\n\n\nAI Trainer - Outlier\nNov 2024 - Jan 2025\nRemote\n\nEvaluated and improved AI-generated coding and mathematics responses for large language models\nProvided structured feedback on reasoning quality, response accuracy, and prompt behavior\nContributed to prompt refinement and response optimization workflows for AI-assisted systems\n\n\n\n\n\nMulti-Threaded HTTP Server | Python, Socket Programming, Multithreading\n\nDeveloped a concurrent HTTP/1.1 server using low-level socket programming and thread pooling in Python\nImplemented persistent connections, request parsing, logging, and secure static file serving\nDesigned concurrent request handling architecture to efficiently support multiple client connections\nStrengthened understanding of networking fundamentals, concurrency, and backend systems design\n\nNotebookLLM - RAG Platform | Python, LangChain, Gemini, ChromaDB\n\nEngineered a Retrieval-Augmented Generation (RAG) platform for contextual document interaction and semantic search\nBuilt document ingestion and embedding pipelines using LangChain and ChromaDB for efficient retrieval\nImplemented conversational querying workflows enabling context-aware responses across uploaded documents\nIntegrated vector search and LLM-based response generation to improve information accessibility\n\nPersona-Based AI Chatbot | React.js, Node.js, OpenAI SDK, Gemini\n\nBuilt an AI-powered instructor persona system supporting contextual and personality-driven conversations\nImplemented conversational memory handling for maintaining coherent multi-turn interactions\nDesigned responsive frontend interfaces using React.js and integrated backend APIs using Node.js\nFocused on improving personalized learning experiences through adaptive AI-generated responses\n\nScory - Real-Time Sports Scoring Platform | React.js, Node.js, MongoDB, WebSockets\n\nDeveloped a real-time sports scoring platform with low-latency updates using WebSocket communication\nImplemented JWT authentication, role-based authorization, and secure session management\nBuilt scalable backend APIs and deployed the application using Vercel and Render\nEnhanced synchronization between multiple connected users and live scoring dashboards\n\n\n\n\n\n\nAchieved a maximum LeetCode contest rating of 1573\nSolved 400+ Data Structures and Algorithms problems across coding platforms\nSelected among the top 800 teams out of 31,000+ registrations in the OpenEnv Hackathon finale\nOpen-source contributor during Hacktoberfest and active participant in technical hackathons\n\n\n\n\n\nCampus Partner - Perplexity\nOct 2025 - Nov 2025"
   },
   {
     "objectID": "resume.html#contact",
     "href": "resume.html#contact",
     "title": "Resume",
     "section": "",
-    "text": "Greater Bengaluru Area ashu9472.as@gmail.com | LinkedIn | GitHub"
+    "text": "Bengaluru, Karnataka, India\nashu9472.as@gmail.com | +91-8709078244 | GitHub | LinkedIn | Portfolio | ashu273k.me | [LeetCode]"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Resume",
     "section": "",
-    "text": "Birla Institute of Technology and Science, Pilani B.Sc. in Computer Science | Aug 2024 – Aug 2027 | CGPA: 8.49 / 10"
+    "text": "Birla Institute of Technology and Science, Pilani\n2024 - 2027\nBachelor of Science in Computer Science\nCGPA: 8.55/10"
   },
   {
     "objectID": "resume.html#experience",
     "href": "resume.html#experience",
     "title": "Resume",
     "section": "",
-    "text": "AI Trainer — Outlier Nov 2024 – Jan 2025\n\nEvaluated and improved AI-generated code and technical responses\nProvided structured feedback to enhance reasoning quality\nContributed to prompt optimization and model refinement"
+    "text": "AI Trainer - Outlier\nNov 2024 - Jan 2025\nRemote\n\nEvaluated and improved AI-generated coding and mathematics responses for large language models\nProvided structured feedback on reasoning quality, response accuracy, and prompt behavior\nContributed to prompt refinement and response optimization workflows for AI-assisted systems"
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
     "title": "Resume",
     "section": "",
-    "text": "Scory — Real-Time Sports Scoring Platform | GitHub\n\nBuilt real-time scoring platform using WebSockets, React, Node.js, MongoDB\nImplemented JWT authentication and role-based access control\n\nMulti-Threaded HTTP Server | GitHub\n\nDeveloped concurrent HTTP/1.1 server using Python thread pooling\nImplemented persistent connections and back-pressure mechanisms\n\nE-Commerce Backend (Spring Boot) | GitHub\n\nBuilt REST APIs for product, cart, order, and user management\nIntegrated MySQL with JPA/Hibernate and JWT authentication\n\nMovie Recommender System | GitHub\n\nBuilt content-based recommender using TF-IDF and cosine similarity\nDeveloped preprocessing and evaluation pipelines"
+    "text": "Multi-Threaded HTTP Server | Python, Socket Programming, Multithreading\n\nDeveloped a concurrent HTTP/1.1 server using low-level socket programming and thread pooling in Python\nImplemented persistent connections, request parsing, logging, and secure static file serving\nDesigned concurrent request handling architecture to efficiently support multiple client connections\nStrengthened understanding of networking fundamentals, concurrency, and backend systems design\n\nNotebookLLM - RAG Platform | Python, LangChain, Gemini, ChromaDB\n\nEngineered a Retrieval-Augmented Generation (RAG) platform for contextual document interaction and semantic search\nBuilt document ingestion and embedding pipelines using LangChain and ChromaDB for efficient retrieval\nImplemented conversational querying workflows enabling context-aware responses across uploaded documents\nIntegrated vector search and LLM-based response generation to improve information accessibility\n\nPersona-Based AI Chatbot | React.js, Node.js, OpenAI SDK, Gemini\n\nBuilt an AI-powered instructor persona system supporting contextual and personality-driven conversations\nImplemented conversational memory handling for maintaining coherent multi-turn interactions\nDesigned responsive frontend interfaces using React.js and integrated backend APIs using Node.js\nFocused on improving personalized learning experiences through adaptive AI-generated responses\n\nScory - Real-Time Sports Scoring Platform | React.js, Node.js, MongoDB, WebSockets\n\nDeveloped a real-time sports scoring platform with low-latency updates using WebSocket communication\nImplemented JWT authentication, role-based authorization, and secure session management\nBuilt scalable backend APIs and deployed the application using Vercel and Render\nEnhanced synchronization between multiple connected users and live scoring dashboards"
   },
   {
     "objectID": "resume.html#skills",
@@ -123,7 +123,7 @@
     "href": "resume.html#achievements",
     "title": "Resume",
     "section": "",
-    "text": "Solved 400+ DSA problems on LeetCode\nParticipated in Buildverse Hackathon\nOpen-source contributor during Hacktoberfest"
+    "text": "Achieved a maximum LeetCode contest rating of 1573\nSolved 400+ Data Structures and Algorithms problems across coding platforms\nSelected among the top 800 teams out of 31,000+ registrations in the OpenEnv Hackathon finale\nOpen-source contributor during Hacktoberfest and active participant in technical hackathons"
   },
   {
     "objectID": "resume.html#languages",
@@ -131,5 +131,19 @@
     "title": "Resume",
     "section": "",
     "text": "English (Fluent) | Hindi (Native) | Maithili (Native)"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Languages: Java, Python, JavaScript, SQL, HTML/CSS\nFrameworks & Libraries: React.js, Express.js, Spring Boot, Tailwind CSS, LangChain\nDatabases & Cloud: MongoDB, MySQL, ChromaDB, Vercel, Netlify\nDeveloper Tools: Git, GitHub, Docker, Linux, Postman, VS Code\nCore Concepts: Data Structures & Algorithms, OOPs, DBMS, Operating Systems, Computer Networks, REST APIs, JWT Authentication, Multithreading, RAG Systems"
+  },
+  {
+    "objectID": "resume.html#leadership-community",
+    "href": "resume.html#leadership-community",
+    "title": "Resume",
+    "section": "",
+    "text": "Campus Partner - Perplexity\nOct 2025 - Nov 2025"
   }
 ]
